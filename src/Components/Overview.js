@@ -4,20 +4,12 @@ import React from "react";
 class Overview extends React.Component {
 
 
-    constructor(props) {
-        super(props)
-        //this.props = props;
 
-    }
-
-    // deleteTask(){
-
-    // }
 
     render() {
 
 
-        var ph=this;
+
         return (
             <div>
                 <ul>
